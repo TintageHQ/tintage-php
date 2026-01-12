@@ -1,4 +1,4 @@
-# Tintage
+# Tintage PHP SDK
 
 Tintage SDK for PHP - Image and video rendering platform SDK.
 
