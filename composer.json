@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "type": "library",
   "keywords": ["tintage", "image", "video", "generation", "rendering"],
-  "homepage": "https://github.com/TintageHQ/tintage-php",
+  "homepage": "https://tintage.com",
   "license": "MIT",
   "authors": [
     {
