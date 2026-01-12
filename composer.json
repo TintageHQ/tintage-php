@@ -1,0 +1,31 @@
+{
+  "name": "tintage/tintage",
+  "description": "Image and video rendering platform SDK.",
+  "version": "0.0.1",
+  "type": "library",
+  "keywords": ["tintage", "image", "video", "generation", "rendering"],
+  "homepage": "https://github.com/TintageHQ/tintage-php",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tintage",
+      "email": "contact@tintage.com"
+    }
+  ],
+  "require": {
+    "php": "^7.4|^8.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Tintage\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tintage\\Tests\\": "tests/"
+    }
+  }
+}
