@@ -1,6 +1,6 @@
-# Tintage PHP SDK
+# Tintage PHP Library
 
-Tintage SDK for PHP - Image and video rendering platform SDK.
+Tintage library for PHP - Image and video rendering platform SDK.
 
 **⚠️ Warning: This package is not ready for production use. It is currently under active development.**
 
